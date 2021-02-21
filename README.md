@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Eugenio</h1>
 <h3 align="center">A passionate computer science student from Italy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edesimone12&label=Profile%20views&color=ef0b0b&style=plastic" alt="edesimone12" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eugenio de simone" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eugenio de simone" height="30" width="40" /></a>
-<a href="https://instagram.com/eugenio_desimone" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="eugenio_desimone" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eugenio-de-simone-32a700175/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eugenio de simone" height="30" width="40" /></a>
+<a href="https://www.instagram.com/eugenio_desimone/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="eugenio_desimone" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -15,3 +13,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edesimone12&show_icons=true&theme=dark&title_color=ef0b0b&bg_color=000000&locale=en&layout=compact" alt="edesimone12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edesimone12&show_icons=true&theme=dark&title_color=ef0b0b&bg_color=000000&locale=en" alt="edesimone12" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edesimone12&label=Profile%20views&color=ef0b0b&style=plastic" alt="edesimone12" /> </p>
